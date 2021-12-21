@@ -1,0 +1,71 @@
+.station{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+    font-size: 30px;
+}
+.plane{
+    border: 1px solid black;
+    display: flex;
+    height: min-content;
+    width: min-content;
+    background: var(--primay-color);
+    color: var( --light-color);
+}
+.stationNum1::before{
+content: "1";
+z-index: -2;
+position: inherit;
+font-size: 5em;
+color: #c4c4c4;
+}
+.stationNum2::before{
+content: "2";
+z-index: -2;
+position: inherit;
+font-size: 5em;
+color: #c4c4c4;
+}
+.stationNum3::before{
+content: "3";
+z-index: -2;
+position: inherit;
+font-size: 5em;
+color: #c4c4c4;
+}
+.stationNum4::before{
+content: "4";
+z-index: -2;
+position: inherit;
+font-size: 5em;
+color: #c4c4c4;
+}
+.stationNum5::before{
+content: "5";
+z-index: -2;
+position: inherit;
+font-size: 5em;
+color: #c4c4c4;
+}
+.stationNum6::before{
+content: "6";
+z-index: -2;
+position: inherit;
+font-size: 5em;
+color: #c4c4c4;
+}
+.stationNum7::before{
+content: "7";
+z-index: -2;
+position: inherit;
+font-size: 5em;
+color: #c4c4c4;
+}
+.stationNum8::before{
+content: "8";
+z-index: -2;
+position: inherit;
+font-size: 5em;
+color: #c4c4c4;
+}

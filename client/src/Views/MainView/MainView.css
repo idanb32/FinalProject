@@ -1,0 +1,7 @@
+.MainView{
+    display: grid;
+    height: 100%;
+    grid-template-columns: 4fr 1fr;
+    gap: var(--gap-s);
+    padding: var(--gap-s);
+}

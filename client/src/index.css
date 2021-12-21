@@ -1,0 +1,16 @@
+:root {
+  --background-primary: #fff;
+  --primay-color: #292961;
+  --accent: #1f75cb;
+  --accent-dark: #0c4e8f;
+  --light-color: #f9f9f9;
+
+  --border-color: #e1e1e1;
+
+  --text-color: #fff;
+  --gap: 30px;
+  --gap-m: 15px;
+  --gap-s: 10px;
+
+  --font-family: 'Open Sans', sans-serif;
+}
